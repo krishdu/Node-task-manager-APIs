@@ -5,6 +5,7 @@
   + HTTP methods used in NodeJs (e.g. GET, POST, PATCH, PUT, DELETE)
   + How to use CRUD operations using MongoDB in Node applications
   + How to create APIs 
+  + How to generate and push custom error in pipeline
   + Create middlewares for different actions
 
 ## ✨ My Thought Process ✨
